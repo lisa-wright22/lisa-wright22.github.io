@@ -1,0 +1,47 @@
+body {
+    background-color: rgba(0,153,102, 0.2);
+
+}
+
+.header {
+    text-align: center;
+    font-size: 3.5em;
+}
+
+.center-align {
+    text-align: center;
+    padding-top: 5%;
+    font-size: 4em;
+}
+
+.ebc {
+    display: block;
+    margin: auto;
+    padding: 2% 0;
+}
+
+.kiss-image-text {
+    padding: 2% 0 0 0;
+}
+
+.small-text {
+    font-size: .75em;
+}
+
+.center {
+    text-align: center;
+}
+
+.padding-top {
+    margin-top: 4%;
+}
+
+.gram {
+    width: 2%;
+    height: auto;
+    margin-right: .5%;
+}
+
+.jumbotron {
+    background-color: #f3f3f3;
+}
